@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
     name: "Swarna- Product Owner"
     email: "{cipher}6fb065ee46ef3fb7707d65715f2f077b63a4c0b72fd14fcb087dff1abebf60b9f3be96ebcd4ec3e798e6dfdab8de5994"
@@ -12,6 +12,7 @@ accounts:
     - (453) 392-4829
 
     - (236) 203-0384
+
 
 
 
