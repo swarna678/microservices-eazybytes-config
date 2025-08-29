@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs "
+  message: "Welcome to EazyBank loans related prods APIs "
   contactDetails:
     name: "Chandana- Product Owner"
     email: "chandanakonda@eazybank.com"
@@ -12,4 +12,5 @@ loans:
     - (723) 656-8709
 
     - (156) 342-0956
+
 
